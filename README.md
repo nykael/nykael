@@ -1,4 +1,4 @@
-### Olá, Eu sou o Nykael Cardial 👋
+### Olá, Nykael Cardial aqui  👋
 
 - 🔭 Dev junior front-end
 - 🌱 Estudando Typescript
